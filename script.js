@@ -125,7 +125,7 @@ window.snapKitInit = () => {
   };
   const loginParamsObj = {
     clientId: "b8e693f8-7c8f-47bf-a005-76a60fd37eb9",
-    redirectURI: "http://localhost:8080/",
+    redirectURI: "https://j-salce.github.io/snapkit-bitmoji/",
     scopeList: [
        "user.bitmoji.avatar",
        "user.display_name",
